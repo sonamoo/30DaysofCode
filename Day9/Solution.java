@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Solution {
     
     public static int Factorial(int n) {
